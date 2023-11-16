@@ -15,7 +15,7 @@ public class SpringJenkinsApplication {
 		return "Wao!! Application Deployed successfully in jenkins pipeline...helo....";
 	}
 
-	public static void main(String[] args) {
+	public static  main(String[] args) {
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
 
